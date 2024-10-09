@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "dfc934b7e9b9b94d",
+        "id": "185dd6c8f13d2490",
         "type": "tabs",
         "children": [
           {
-            "id": "83211316a9ffdcb4",
+            "id": "2a7d714b08994099",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dynamic Programming.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1e5ec1dfe6d82377",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Binary Search.md",
+                "file": "summary.md",
                 "mode": "source",
                 "source": false
               }
@@ -76,6 +64,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "dd776e9120728e3f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -97,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dynamic Programming.md",
+                "file": "summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dynamic Programming.md",
+                "file": "summary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dynamic Programming.md"
+                "file": "summary.md"
               }
             }
           }
@@ -158,9 +154,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "83211316a9ffdcb4",
+  "active": "2a7d714b08994099",
   "lastOpenFiles": [
+    "DSA/Dynamic Programming.md",
+    "summary.md",
+    "_heavy_resources/LLD_BOOKS/design_patterns_gang_of_4.pdf",
+    "_heavy_resources/LLD_BOOKS/game_programming_patterns.pdf",
+    "_heavy_resources/LLD_BOOKS",
+    "_heavy_resources/New folder",
+    "_heavy_resources/CP_BOOKS/Graph Algorithms_oReily.pdf",
+    "_heavy_resources/CP_BOOKS/e-maxx_cp-algorithms.pdf",
+    "_heavy_resources/CP_BOOKS/cp handbook.pdf",
+    "_heavy_resources/CP_BOOKS/CLRS_Introduction_to_algorithms-3rd Edition.pdf",
+    "_heavy_resources/CP_BOOKS",
+    "_heavy_resources",
+    "DSA/Binary Search.md",
+    "DSA/summary.md",
+    "Dynamic Programming.md",
     "Binary Search.md",
-    "Dynamic Programming.md"
+    "2024-10-09.md",
+    "DSA Topics to be covered.md",
+    "ccn-asgn.md"
   ]
 }
