@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "185dd6c8f13d2490",
+        "id": "92b4d79e76bbb1cc",
         "type": "tabs",
         "children": [
           {
-            "id": "2a7d714b08994099",
+            "id": "037d40dbe79f9ea7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -154,19 +154,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2a7d714b08994099",
+  "active": "037d40dbe79f9ea7",
   "lastOpenFiles": [
-    "DSA/Dynamic Programming.md",
+    "design_patterns_gang_of_4.pdf.md",
     "summary.md",
     "_heavy_resources/LLD_BOOKS/design_patterns_gang_of_4.pdf",
     "_heavy_resources/LLD_BOOKS/game_programming_patterns.pdf",
     "_heavy_resources/LLD_BOOKS",
-    "_heavy_resources/New folder",
     "_heavy_resources/CP_BOOKS/Graph Algorithms_oReily.pdf",
     "_heavy_resources/CP_BOOKS/e-maxx_cp-algorithms.pdf",
     "_heavy_resources/CP_BOOKS/cp handbook.pdf",
     "_heavy_resources/CP_BOOKS/CLRS_Introduction_to_algorithms-3rd Edition.pdf",
     "_heavy_resources/CP_BOOKS",
+    "DSA/Dynamic Programming.md",
+    "_heavy_resources/New folder",
     "_heavy_resources",
     "DSA/Binary Search.md",
     "DSA/summary.md",
