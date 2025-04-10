@@ -131,6 +131,10 @@ https://www.youtube.com/playlist?list=PLb3g_Z8nEv1hB69JL9K7KfEyK8iQNj9nX
 
 https://youtube.com/playlist?list=PLJSqVBBfSpyz_Lb0Baqg2V7cjAg3Rz3yz
 
+#### Some Good Leetcode Hard Problems
+
+1. [POTD: 10-APR-2025 | Count the Number of Powerful Integers](https://leetcode.com/problems/count-the-number-of-powerful-integers/description/)
+2. [Numbers With Repeated Digits](https://leetcode.com/problems/numbers-with-repeated-digits/)
 
 # DP with Bitmask
 
