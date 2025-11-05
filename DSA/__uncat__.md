@@ -25,3 +25,11 @@ https://leetcode.com/problems/maximum-difference-between-even-and-odd-frequency-
 - Range query (including rearranging of equation)
 - Plus sliding window in a very complicated way
 
+
+## Binary Search
+
+See this hard leetcode problems https://leetcode.com/problems/kth-smallest-product-of-two-sorted-arrays/editorial/?envType=daily-question&envId=2025-06-25 editorial:
+Things to learn:
+1. How to use Binary Search + Binary Search + Linear. Complexity: O(logA . logB . N)
+2. Binary Search + Divide and Conquer (teached you Binary Search on 2D matrix)
+
