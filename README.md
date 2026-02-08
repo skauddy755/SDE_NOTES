@@ -11,4 +11,10 @@
 8. Binary Tree
 9. Linked List
 
-# 
+# Low-Level Design
+
+https://github.com/ashishps1/awesome-low-level-design?tab=readme-ov-file
+
+# High-Level Design
+
+https://github.com/ashishps1/awesome-system-design-resources?tab=readme-ov-file
