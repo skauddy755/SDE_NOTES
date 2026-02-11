@@ -6,7 +6,7 @@
 3. [Binary Search](DSA/binary_search.md)
 4. Greedy Algorithms
 5. Graphs
-6. Range Queries (Prefix-Suffix Arrays, Sparse Table, Segment Tree, Fenwick Tree)
+6. [Range Queries (Prefix-Suffix Arrays, Sparse Table, Segment Tree, Fenwick Tree)](DSA/range_queries.md)
 7. Strings (String matching, sliding window, 2 pointers)
 8. Binary Tree
 9. Linked List
