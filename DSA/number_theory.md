@@ -37,8 +37,8 @@ a.h = 1 (mod p)
 ### Finding `h` (given `a` and `p`):
 
 ```
-    gcd(a, h) = Linear_Combination(a, p)
-=>  gcd(a, h) = alpha * a + beta * p
+    gcd(a, p) = Linear_Combination(a, p)
+=>  gcd(a, p) = alpha * a + beta * p
 =>  1         = alpha * a + beta * p                [since a and b are coprime]
 =>  1 % p     = (alpha * a + beta * p) % p          [both sides under modulo p]
 =>  1 % p     = (alpha * a) % p + (beta * p) % p    [distributive property]
